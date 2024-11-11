@@ -7,5 +7,6 @@ Saitama has a rather peculiar hobby, being a superhero, but despite his heroic d
 
 > "I'm just a guy who's a hero for fun."
 
-Check out more details on [One Punch Man MyAnimeList](https://myanimelist.net/anime/30276/One_Punch_Man)
-[One Punch Man Anilist](https://anilist.co/anime/21087/One-Punch-Man)
+Check out more details on [MyAnimeList](https://myanimelist.net/anime/30276/One_Punch_Man)
+
+[Anilist](https://anilist.co/anime/21087/One-Punch-Man)
